@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm Padmavathi<br>🎓 I'm a Computer Science Engineering student at PSG College of Technology<br>💻 Passionate about coding, building projects, and exploring new technologies<br>🌱 Currently diving deeper into full-stack development<br>📊 Actively solving problems on LeetCode 🚀 Always open to collaboration and exciting ideas
+👋 Hi, I'm Padmavathi<br>
+🎓I'm a Computer Science Engineering student at PSG College of Technology<br>
+💻 Passionate about coding, building projects, and exploring new technologies<br>
+🌱 Currently diving deeper into full-stack development<br>
+📊 Actively solving problems on LeetCode <br>
+🚀 Always open to collaboration and exciting ideas
 
 
 ## 🌐 Socials:
